@@ -1,0 +1,6 @@
+{
+  "name": "Triphal — Pure Black Turmeric (Kali Haldi)",
+  "description": "Interactive 3D scroll-driven showcase for Triphal Pure Black Turmeric (Kali Haldi) featuring photorealistic 3D packaging, turmeric root botanical visuals, and golden earth aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
